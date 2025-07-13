@@ -1,4 +1,4 @@
-🎧 Spotify Churn Prediction
+<h2>🎧 Spotify Churn Prediction</h2> <br>
 A data-driven project to analyze and predict customer churn using Spotify user behavior data. Built with Pandas for data manipulation, XGBoost for machine learning, and Power BI for interactive visualizations.
 
 This project explores the relationship between user behavior—such as listening time slots, preferred genres, and subscription plans—and their likelihood to churn. By identifying patterns and high-risk segments, it empowers Spotify to make proactive business decisions and improve user retention.
