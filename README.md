@@ -8,7 +8,6 @@ This project explores the relationship between user behavior—such as listening
 ✔️ 📊 Evaluation Metrics – Includes confusion matrix, accuracy, precision, recall, and F1-score
 ✔️ 📈 Power BI Dashboard – Summarizes business insights and user patterns visually
 ✔️ 📄 PDF Report – Consolidates key findings for stakeholders
-✔️ (Optional) 💡 Streamlit App – Interactive UI to demo predictions in real-time
 
 🚀 Goal
 To help Spotify identify at-risk users and make data-backed decisions to reduce churn and improve user retention.
